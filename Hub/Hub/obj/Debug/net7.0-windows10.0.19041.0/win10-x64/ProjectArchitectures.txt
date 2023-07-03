@@ -1,0 +1,1 @@
+C:\Users\tacri\source\repos\FirebaseHub\Hub\Hub\Hub.csproj;x64
